@@ -3,6 +3,7 @@ Changes will be deployed to the web editor first. The desktop editor will only b
 
 ## 03 July 2018 1.0.2
 - Fixed PC Scroll Up and Down message box, where Increment and Decrement was not showing properly
+- Updated clear preset logic to disregard clearing the bank name.
 
 ## 13 May 2018 1.0.1
 - Fixed issues with editing Set Bank
