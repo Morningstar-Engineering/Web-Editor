@@ -1,6 +1,9 @@
 # Web Editor Change Log
 Changes will be deployed to the web editor first. The desktop editor will only be updated once everything is stable. If you find any bugs, please drop us an email to help@morningstarfx.com.
 
+## 28 Oct 2018 1.0.4
+- Updated editor to work with MC6 MKII firmware v3.2
+
 ## 11 July 2018 1.0.3
 - Fixed pasting and copying of expression presets on the editor
 
