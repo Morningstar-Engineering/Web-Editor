@@ -1,14 +1,14 @@
 # Web Editor Change Log
 Changes will be deployed to the web editor first. The desktop editor will only be updated once everything is stable. If you find any bugs, please drop us an email to help@morningstarfx.com.
 
-## 02 Feb 2019 1.0.5 (Beta)
+## 7 April 2019 1.0.5
 - Removed Modal Box for editing message. Editing message will now bring up a parameter box directly below the message option.
 - Action select box text will turn green if an action is selected
 - Type select box text will turn green if a type is selected
 - Message text (Msg 1, Msg 2 etc) will turn green if both action and type are selected
 - Save Preset button disabled for 2 seconds after click
 
-## 28 Oct 2018 1.0.4
+## 28 October 2018 1.0.4
 - Updated editor to work with MC6 MKII firmware v3.2
 
 ## 11 July 2018 1.0.3
